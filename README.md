@@ -34,6 +34,31 @@ Welcome to the **Documentation Templates** repository! This repository contains 
 Contributions are welcome! If you have a useful template, feel free to submit a pull request.
 Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules, and more.
 
+## 🔖 Changelog
+
+All notable changes to this project will be documented at [Changelog][changelog].
+
+<!-- emoji-table -->
+
+ Emoji | Aliases | Type | Type Aliases | Version Bump | In Changelog? | Heading  | Order
+ ----- | ------- | ---- | ------------ | ------------ | ------------- | -------  | -----
+🚨 |  | `breaking` |  | major | ✅ | 🚨 Breaking Changes | 10
+✨ | 🌟, 💫, 🌠 | `feat` |  | minor | ✅ | ✨ Features | 20
+🔒 |  | `security` |  | patch | ✅ | 🔒 Security | 25
+🛠 |  | `improvement` | `imp` | patch | ✅ | 🛠 Improvements | 30
+⚡️ |  | `perf` | `performance` | patch | ✅ | ⚡️ Performance | 35
+🐛 | 🐞 | `fix` |  | patch | ✅ | 🐛 Bug Fixes | 40
+📚 | 📖 | `docs` | `doc` | patch | ✅ | 📚 Documentation | 50
+🏗 | ⚙️ | `chore` | `chores` | patch | ✅ | 🏗 Chore | 60
+♻️ |  | `refactor` |  | patch |  | ♻️ Refactoring | 90
+🚦 | ✅ | `test` |  | patch |  | 🚦 Test | 90
+🎨 | 💄 | `style` | `cleanup` | patch |  | 🎨 Style | 90
+📦 |  | `build` | `deps` | patch |  | 📦 Build | 90
+🔖 |  | `release` |  | patch |  | 🔖 Release | 90
+🚧 |  | `wip` |  | patch |  | 🚧 Wip | 90
+
+<!-- emoji-table -->
+
 ### Code of Conduct
 
 Help us keep this open and inclusive. Please read and follow our [Code of Conduct][codeofconduct].
