@@ -6,6 +6,7 @@ Welcome to the **Documentation Templates** repository! This repository contains 
 
 ### 📝 General Documentation
 - **README Template** - A standard README file structure for repositories.
+- **CHANGELOG Template** - Log of all notable changes made to the project.
 - **CONTRIBUTING Template** - Guidelines for contributors.
 - **CODE_OF_CONDUCT Template** - Community behavior guidelines.
 - **LICENSE Template** - Boilerplate for open-source licensing.
