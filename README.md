@@ -25,7 +25,7 @@ Welcome to the **Documentation Templates** repository! This repository contains 
 ## 📂 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/documentation-templates.git
+   git clone https://github.com/zyndly/documentation-templates.git
    ```
 2. Browse the `templates/` folder and copy the desired template.
 3. Customize the template to fit your project's needs.
