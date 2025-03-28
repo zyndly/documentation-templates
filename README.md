@@ -32,6 +32,11 @@ Welcome to the **Documentation Templates** repository! This repository contains 
 
 ## 🤝 Contributing
 Contributions are welcome! If you have a useful template, feel free to submit a pull request.
+Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules, and more.
+
+### Code of Conduct
+
+Help us keep this open and inclusive. Please read and follow our [Code of Conduct][codeofconduct].
 
 ## 📜 License
 This repository is licensed under the MIT License. See the `LICENSE` file for details.
